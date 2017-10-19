@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 /*
-* Função para intdicar se numero é par ou impar
+* Função para indicar se numero é par ou impar
 */
 int par_impar(int n) {
     if (n%2==0) return 0;
